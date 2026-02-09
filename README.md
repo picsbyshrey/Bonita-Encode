@@ -1,7 +1,7 @@
 # Bonita Baddies Wellness Intelligence System 💅🧠✨
 
 **Submitted for the Encode Commit to Change AI Hackathon**
-[README v2 - Greater Detail](README2.md)
+[README v2 - Greater Detail](/README2.MD)
 
 An AI-powered holistic wellness coach optimizing Time, Space, and Self using the Gemini API.
 
